@@ -1,0 +1,9 @@
+.venv/
+.cache/
+.local/
+__pycache__/
+*.pyc
+data/
+runs/
+edu_fineweb10B/
+log/
